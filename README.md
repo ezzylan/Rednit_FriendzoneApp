@@ -1,4 +1,4 @@
-# rednit_friendzone_java
+# Rednit_FriendzoneApp
 A fake dating app made in Java using Swing GUI and MySQL.
 
 ## Preview
